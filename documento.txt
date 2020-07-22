@@ -3,6 +3,6 @@ Esto es un título
 Esto es un título centrado
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
-
+Añadir otra linea de texto
 
 Y esto de arriba es la foto de unas Suricatas.
