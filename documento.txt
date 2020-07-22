@@ -4,6 +4,6 @@ Esto es un título centrado
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
+Elimine una linea
 
-Y esto de arriba es la foto de unas Suricatas.
 Esto es la modificacion de el primer archivo
