@@ -18,3 +18,19 @@ body{
 .container h1{
     font-size: 20px;
 }
+
+.cabecera{
+    background: darkcyan;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.cabecera h1{
+    color: white;
+    
+   
+}
