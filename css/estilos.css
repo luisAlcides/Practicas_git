@@ -31,5 +31,25 @@ body{
 
 .cabecera h1{
     color: white;
-     
+    
+   
 }
+
+.footer-container{
+    border: 2px solid black;
+    height: 45px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.footer-container li{
+    list-style: none;
+}
+.footer-container li a{
+    text-decoration: none;
+    color: white;
+} 
